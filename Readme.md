@@ -1,22 +1,46 @@
-# My Rust In Action
+![Rust in Action Banner](img/banniere.png)
 
-*This is simply a repo to track my path learning rust by reading and doing the book rust in action projects*
 
-Rules I followed :
+> A personal learning repository where I explore [*Rust in Action*](https://www.manning.com/books/rust-in-action) — one chapter, one project at a time.
 
-* For each exercise, as it gives directly the answer, I asked chatgpt to redact a Pratical Sheet with guided exercises to do the project (which I add in each folders).
-* I did not use LLMs during coding the projects (or at least not as a coder but sometimes as a teacher) which leads to exercise correction that are different from the one of the books but it works.
+---
 
-Current Achievements :
-- [x] Chapter 1 : Introducing Rust
-- [ ] Chapter 2 : Language Fondation (<--- Current)
-- [ ] Chapter 3 : Compound data types
-- [ ] Chapter 4 : Lifetime, Ownership and Borrowing
-- [ ] Chapter 5 : Data in Depth
-- [ ] Chapter 6 : Memory
-- [ ] Chapter 7 : Files and Storage
-- [ ] Chapter 8 : Networking
-- [ ] Chapter 9 : Time and time keeping
-- [ ] Chapter 10 : Processes, Threads and Containers
-- [ ] Chapter 11 : Kernel
-- [ ] Chapter 12 : Signals, Interrupts and Exceptions
+## 📚 About This Repository
+
+This repo serves as a **learning log and project space** as I read through *Rust in Action*. My goal is not just to follow along, but to truly understand the concepts by building and experimenting.
+
+To enhance learning, I’ve developed a custom process:
+
+### 🛠️ My Learning Rules
+
+- 🧾 For each exercise, instead of jumping straight to the provided solutions, I ask ChatGPT to generate a **Practical Sheet** — guided exercises that help me think through the project step-by-step. These are included in each folder.
+- 🤖 I intentionally **avoid using LLMs to write code directly**. I may ask questions or seek clarification (like a mentor), but all implementations are my own — which means some solutions may differ from the book's, but they work!
+
+---
+
+## ✅ Progress Tracker
+
+| Chapter | Title | Status |
+|--------:|:------|:------:|
+| 1 | Introducing Rust | ✅ Completed |
+| 2 | Language Foundation | 🚧 In Progress |
+| 3 | Compound Data Types | ⬜ Not Started |
+| 4 | Ownership, Borrowing & Lifetimes | ⬜ Not Started |
+| 5 | Data in Depth | ⬜ Not Started |
+| 6 | Memory | ⬜ Not Started |
+| 7 | Files and Storage | ⬜ Not Started |
+| 8 | Networking | ⬜ Not Started |
+| 9 | Time and Timekeeping | ⬜ Not Started |
+| 10 | Processes, Threads & Containers | ⬜ Not Started |
+| 11 | Kernel | ⬜ Not Started |
+| 12 | Signals, Interrupts & Exceptions | ⬜ Not Started |
+
+---
+
+## 🧠 Why This Approach?
+
+I learn best by doing — and by occasionally failing, fixing, and reflecting. This method:
+
+- Reinforces the fundamentals of systems programming in Rust
+- Builds problem-solving intuition
+- Keeps the learning active and not just passive reading
