@@ -1,3 +1,9 @@
+use std::fs::File;
+use std::io;
+use std::io::BufReader;
+use std::io::prelude::*;
+use regex::Regex;
+use clap::{Arg, Command};
 
 fn find_line_containing(corpus: &str, search_term: &str)->Vec<(usize,String)>{
     let mut lines : Vec<(usize, String)> = vec![];
@@ -29,11 +35,63 @@ fn find_line_containing_with_context(corpus: &str, search_term: &str, context_le
     }
     all_matches
 }
+
+
+fn find_line_containing_with_regex(corpus: &str, search_term: &str)->Vec<(usize,String)>{
+    let re = Regex::new(search_term).unwrap();
+    let mut lines : Vec<(usize, String)> = vec![];
+    for (i,line) in corpus.lines().enumerate(){
+        let contains_substring = re.find(line);
+        match contains_substring{
+        Some(_) => lines.push((i,line.to_string())),
+        None => (),
+        }
+   }
+    lines
+}
+
+fn read_file<R: BufRead>(reader: R ) -> String {
+    let mut text : String = String::new();
+    for line_result in reader.lines(){
+        if let Ok(line) = line_result {
+            text.push_str(&line);
+            text.push('\n');
+        }
+    }
+    text
+}
+
 fn main() {
-    let matches = find_line_containing_with_context("Every face, every shop, bedroom window, public-house, and
-    dark square is a picture feverishly turned--in search of what?
-    It is the same with books.
-    What do we seek through millions of pages?", "oo", 1);
+    let args = Command::new("grep-lite")
+        .version("0.1")
+        .about("search_for_patterns")
+        .arg(Arg::new("pattern")
+            .help("The pattern to search for")
+            .required(true)
+            .num_args(1))
+        .arg(Arg::new("input")
+            .help("The file path to read")
+            .required(false)
+            .default_value("-")
+            .num_args(1))
+        .get_matches();
+
+    let pattern = args.get_one::<String>("pattern").expect("Pattern argument is required");
+
+    let input_path = args.get_one::<String>("input").unwrap();
+    let mut text = String::new();
+    if input_path == "-"{
+        let stdin = io::stdin();
+        let reader = stdin.lock();
+        text = read_file(reader);
+    }else {
+        let f = File::open(input_path).unwrap();
+        let reader = BufReader::new(f); 
+        text = read_file(reader);
+    }
+
+    
+    let matches = find_line_containing_with_context(&text, pattern, 1);
     
     for local_match in matches {
         println!("New match");
@@ -41,4 +99,13 @@ fn main() {
             println!("{:?}", line)
         }
     }
+
+
+    println!("\nWith Regex : ");
+
+     let matches = find_line_containing_with_regex(&text, pattern);
+    
+    for line in matches {
+            println!("{:?}", line)
+        }
 }
