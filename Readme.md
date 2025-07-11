@@ -23,8 +23,8 @@ To enhance learning, I’ve developed a custom process:
 | Chapter | Title | Status |
 |--------:|:------|:------:|
 | 1 | Introducing Rust | ✅ Completed |
-| 2 | Language Foundation | 🚧 In Progress |
-| 3 | Compound Data Types | ⬜ Not Started |
+| 2 | Language Foundation |  ✅ Completed  |
+| 3 | Compound Data Types |  🚧 In Progress  |
 | 4 | Ownership, Borrowing & Lifetimes | ⬜ Not Started |
 | 5 | Data in Depth | ⬜ Not Started |
 | 6 | Memory | ⬜ Not Started |
