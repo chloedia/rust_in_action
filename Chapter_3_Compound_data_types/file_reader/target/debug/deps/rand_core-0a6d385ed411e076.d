@@ -1,0 +1,11 @@
+/Users/chloed./Documents/rust_in_action/Chapter_3_Compound_data_types/temp/target/debug/deps/librand_core-0a6d385ed411e076.rmeta: /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/Users/chloed./Documents/rust_in_action/Chapter_3_Compound_data_types/temp/target/debug/deps/librand_core-0a6d385ed411e076.rlib: /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/Users/chloed./Documents/rust_in_action/Chapter_3_Compound_data_types/temp/target/debug/deps/rand_core-0a6d385ed411e076.d: /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs:
+/Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs:
+/Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs:
+/Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs:
+/Users/chloed./.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs:
