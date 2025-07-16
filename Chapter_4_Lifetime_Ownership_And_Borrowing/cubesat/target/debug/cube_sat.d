@@ -1,0 +1,1 @@
+/Users/chloed./Documents/rust_in_action/Chapter_4_Lifetime_Ownership_And_Borrowing/cubesat/target/debug/cube_sat: /Users/chloed./Documents/rust_in_action/Chapter_4_Lifetime_Ownership_And_Borrowing/cubesat/src/main.rs
