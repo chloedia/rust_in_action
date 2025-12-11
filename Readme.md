@@ -26,9 +26,9 @@ To enhance learning, I’ve developed a custom process:
 | 2 | Language Foundation |  ✅ Completed  |
 | 3 | Compound Data Types |   ✅ Completed    |
 | 4 | Ownership, Borrowing & Lifetimes |✅ Completed|
-| 5 | Data in Depth | 🚧 In Progress |
-| 6 | Memory | ⬜ Not Started |
-| 7 | Files and Storage | ⬜ Not Started |
+| 5 | Data in Depth | ✅ Completed |
+| 6 | Memory | ✅ Completed |
+| 7 | Files and Storage | 🚧 In Progress |
 | 8 | Networking | ⬜ Not Started |
 | 9 | Time and Timekeeping | ⬜ Not Started |
 | 10 | Processes, Threads & Containers | ⬜ Not Started |
