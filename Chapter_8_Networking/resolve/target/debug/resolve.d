@@ -1,0 +1,1 @@
+/Users/chloe.daems/Documents/Personnal\ Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/resolve: /Users/chloe.daems/Documents/Personnal\ Projects/rust_in_action/Chapter_8_Networking/resolve/src/main.rs

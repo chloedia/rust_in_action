@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/rand_isaac-f5c3c3df40240bc4.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac64.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/librand_isaac-f5c3c3df40240bc4.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac64.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/librand_isaac-f5c3c3df40240bc4.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac64.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac_array.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac64.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_isaac-0.1.1/src/isaac_array.rs:

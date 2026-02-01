@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/idna-1500bb37998b6ad7.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/punycode.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/libidna-1500bb37998b6ad7.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/punycode.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/chloe.daems/Documents/Personnal Projects/rust_in_action/Chapter_8_Networking/resolve/target/debug/deps/libidna-1500bb37998b6ad7.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/punycode.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46_mapping_table.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/punycode.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.1.5/src/uts46_mapping_table.rs:
