@@ -1,0 +1,11 @@
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/managed-9d249c51edf5d190.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/object.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slice.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slotmap.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/map.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libmanaged-9d249c51edf5d190.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/object.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slice.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slotmap.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/map.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libmanaged-9d249c51edf5d190.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/object.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slice.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slotmap.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/map.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/object.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slice.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/slotmap.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/managed-0.8.0/src/map.rs:

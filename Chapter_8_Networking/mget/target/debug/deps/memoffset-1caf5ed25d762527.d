@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/memoffset-1caf5ed25d762527.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/raw_field.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/offset_of.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/span_of.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libmemoffset-1caf5ed25d762527.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/raw_field.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/offset_of.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/span_of.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libmemoffset-1caf5ed25d762527.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/raw_field.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/offset_of.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/span_of.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/raw_field.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/offset_of.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.5.6/src/span_of.rs:

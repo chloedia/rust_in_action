@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/crossbeam_queue-61e58ac9ec6336ba.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/array_queue.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/err.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libcrossbeam_queue-61e58ac9ec6336ba.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/array_queue.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/err.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libcrossbeam_queue-61e58ac9ec6336ba.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/array_queue.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/err.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/array_queue.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/err.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crossbeam-queue-0.2.3/src/seg_queue.rs:

@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/rand_jitter-304696e6e6e9cc3e.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/dummy_log.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/platform.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/error.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/librand_jitter-304696e6e6e9cc3e.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/dummy_log.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/platform.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/error.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/librand_jitter-304696e6e6e9cc3e.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/dummy_log.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/platform.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/error.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/dummy_log.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/platform.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_jitter-0.1.4/src/error.rs:

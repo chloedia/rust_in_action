@@ -1,0 +1,10 @@
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/tokio_tcp-3c086f59acfb69d8.d: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/incoming.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/listener.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/stream.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libtokio_tcp-3c086f59acfb69d8.rlib: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/incoming.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/listener.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/stream.rs
+
+/Users/chloe.daems/Documents/Github/rust_in_action/Chapter_8_Networking/mget/target/debug/deps/libtokio_tcp-3c086f59acfb69d8.rmeta: /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/lib.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/incoming.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/listener.rs /Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/stream.rs
+
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/lib.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/incoming.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/listener.rs:
+/Users/chloe.daems/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-tcp-0.1.4/src/stream.rs:
