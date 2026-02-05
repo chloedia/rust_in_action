@@ -30,8 +30,8 @@ To enhance learning, I’ve developed a custom process:
 | 6 | Memory | ✅ Completed |
 | 7 | Files and Storage | ✅ Completed|
 | 8 | Networking | ✅ Completed |
-| 9 | Time and Timekeeping | 🚧 In Progress  |
-| 10 | Processes, Threads & Containers | ⬜ Not Started |
+| 9 | Time and Timekeeping |  ✅ Completed  |
+| 10 | Processes, Threads & Containers | 🚧 In Progress  |
 | 11 | Kernel | ⬜ Not Started |
 | 12 | Signals, Interrupts & Exceptions | ⬜ Not Started |
 
